@@ -11,7 +11,7 @@ TagManager:
   - 
   - Water
   - UI
-  - Cielo
+  - Background
   - 
   - 
   - 
@@ -41,6 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Cielo
+  - name: Background
     uniqueID: 599285301
+    locked: 0
+  - name: Terreno
+    uniqueID: 1526280457
+    locked: 0
+  - name: Personajes
+    uniqueID: 3442858607
+    locked: 0
+  - name: UI
+    uniqueID: 1850025981
     locked: 0
